@@ -1,0 +1,19 @@
+{
+  "name": "todo-node-app",
+  "version": "1.0.0",
+  "description": "Sample NodeJS app for Udemy NodeJS tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stgr99",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-winston": "^2.5.1",
+    "mongoose": "^5.0.18",
+    "path": "^0.12.7",
+    "winston": "^2.4.2"
+  }
+}
